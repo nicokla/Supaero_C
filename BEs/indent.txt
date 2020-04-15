@@ -1,0 +1,10 @@
+http://www.delafond.org
+/traducmanfr/man/man1/indent.1.html#lbAH
+
+
+indent -br -ce -cdw
+(nbad bap)
+
+-kr
+-orig
+
